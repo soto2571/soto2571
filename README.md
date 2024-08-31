@@ -12,7 +12,7 @@ I am a passionate software engineer student at Holberton Coding School, with a l
 - 🌱 I’m constantly exploring new technologies and methodologies, including Flask, Docker, and agile practices.
 
 ## My Projects
-- [!Ko-nnect: An employee managment app]
+- Ko-nnect: An employee managment app
 
 ## 🌱 Currently Exploring
 
@@ -25,7 +25,7 @@ I am a passionate software engineer student at Holberton Coding School, with a l
  ## 🏆 Achievements
 
   - 🌟 Successfully led and managed several team projects, including a mobile app for Demo Day at Holberton.
-	- 🏅 Participade on 21st Century Techforce on Puerto Rico
+  - 🏅 Participade on 21st Century Techforce on Puerto Rico
 
 
 ## 📬 Get in Touch
