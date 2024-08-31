@@ -30,6 +30,6 @@ I am a passionate software engineer student at Holberton Coding School, with a l
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/sebastian-soto-vazquez-31b8a02b3/))
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/sebastian-soto-vazquez-31b8a02b3/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
